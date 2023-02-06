@@ -1,4 +1,4 @@
-baseURL = 'https://acastro02/quickstart'
+baseURL = 'https://acastro02.github.io/quickstart'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
